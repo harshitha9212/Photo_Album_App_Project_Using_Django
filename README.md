@@ -1,4 +1,6 @@
-Description--
+PHOTO ALBUM APP PROJECT USING DAJNGO
+
+DESCRIPTION--
 This Photo Album App allows multiple users to manage and organize their photos effortlessly. It is designed for easy photo uploads, management, and categorization. The key features include:
 
 User Authentication: Multiple users can create accounts and access the app.
